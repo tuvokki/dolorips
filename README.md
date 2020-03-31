@@ -2,5 +2,5 @@
 
 ## Paragraph generator for texts
 
-Pun intended, Dolorips is of course doLORem IPSum.
+Pun intended, Dolorips is of course DO doLORem IPSum.
 
